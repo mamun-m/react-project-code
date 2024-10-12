@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "web design",
+    "desc": "web designed is the process of building , programming ..."
+  },
+  {
+    "id": "2",
+    "name": "Front-end development",
+    "desc": "web developer is the process of building , programming ..."
+  },
+  {
+    "id": "3",
+    "name": "back-end devlopment",
+    "desc": "back end developer is the process of building , programming ..."
+  },
+  {
+    "id": "4",
+    "name": "full-stack development",
+    "desc": "full-stack developer is the process of building , programming ..."
+  },
+  {
+    "id": "5",
+    "name": "Data scientist",
+    "desc": "data scientist is the process of building , programming ..."
+  }
+]
